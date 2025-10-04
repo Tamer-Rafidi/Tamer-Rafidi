@@ -50,7 +50,7 @@ class TamerRafidi:
 |:---:|:---:|:---:|
 | **[Groovy.Io](https://github.com/Tamer-Rafidi/Groovy.Io)** | AI-powered DJ web app - intelligently mixes tracks | `Python` `React` `Flask` `OpenAI` |
 | **[AirDJ](https://github.com/Tamer-Rafidi/AirDJ)** | Hand-tracking audio controller - DJ with gestures | `Python` `OpenCV` `Mediapipe` |
-| **[Image Decompressor](https://github.com/Tamer-Rafidi/Image-Decompressor)** | Hardware FPGA image decompressor (320x240) | `SystemVerilog` `Quartus` |
+| **[Image Decompressor](https://github.com/Tamer-Rafidi/Image-Decompressor)** | Hardware FPGA image decompressor (320x240) | `SystemVerilog` `Quartus` `ModelSim` |
 | **[Software Defined Radio](https://github.com/Tamer-Rafidi/Real-time-Software-Defined-Radio)** | Real-time FM receiver on Raspberry Pi | `C++` `Python` `DSP` |
 | **[LIDAR Spatial Mapping](https://github.com/Tamer-Rafidi/LIDAR-Spatial-Mapping)** | 3D mapping with microcontroller & sensors | `C` `Python` `Assembly` |
 | **[Pacemaker Simulator](https://github.com/Tamer-Rafidi/Pacemaker)** | Real-time medical device simulation | `Simulink` `Python` |
@@ -136,7 +136,5 @@ Communication Ports:
 ! Last compiled: McMaster University
 # Currently running: MDA Space
 ```
-
-**Made with ❤️ and ☕ by Tamer Rafidi**
 
 </div>
