@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Tamer Rafidi</h1>
 <p align="center">
   <b>Junior Software Engineer @ MDA Space</b> <br>
-  <i>🎓Computer Engineer | Python Enthusiast | Builder of Real-Time Tech</i>
+  <i>Computer Engineer | Python Enthusiast | Builder of Real-Time Tech</i>
 </p>
 
 <p align="center">
