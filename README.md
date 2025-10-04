@@ -23,9 +23,10 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**AirDJ**](https://github.com/Tamer-Rafidi/AirDJ) | Real-time hand-tracking audio controller—DJ your music with just gestures! | Python |
-| [**Image-Decompressor**](https://github.com/Tamer-Rafidi/Image-Decompressor) | Hardware-based image decompressor in Verilog, reconstructs 320x240 pixel images (.mic18 spec) | SystemVerilog, Tcl, C, Verilog, Stata |
-| [**Groovy.Io**](https://github.com/Tamer-Rafidi/Groovy.Io) | Multilingual (JS & Python) project—details coming soon! | JavaScript, Python, CSS, HTML |
-| [**Pacemaker**](https://github.com/Tamer-Rafidi/Pacemaker) | Real-time pacemaker software using Simulink and Python | Python |
+| [**Image-Decompressor**](https://github.com/Tamer-Rafidi/Image-Decompressor) | Hardware-based image decompressor in Verilog, reconstructs 320x240 pixel images (.mic18 spec) | SystemVerilog, C |
+| [**Groovy.Io**](https://github.com/Tamer-Rafidi/Groovy.Io) | AI-Powered DJ Web App | JavaScript, Python, CSS, HTML |
+| [**Pacemaker**](https://github.com/Tamer-Rafidi/Pacemaker) | Real-time pacemaker software using Simulink and Python | Python, Simulink |
+
 
 ---
 
