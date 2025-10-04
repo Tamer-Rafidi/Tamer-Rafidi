@@ -32,7 +32,7 @@
 
 ## 🛠️ Skills & Tools
 
-<img src="https://skillicons.dev/icons?i=python,verilog,systemverilog,js,html,css,matlab,git,linux,c" />
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,matlab,git,linux" />
 
 ---
 
@@ -61,6 +61,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Keep+coding+and+reach+for+the+stars!+🚀" alt="Typing SVG" />
-</p>
