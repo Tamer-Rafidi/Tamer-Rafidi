@@ -1,16 +1,75 @@
-## Hi there 👋
+<!-- Tamer-Rafidi's GitHub Profile README -->
 
-<!--
-**Tamer-Rafidi/Tamer-Rafidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Tamer Rafidi</h1>
+<p align="center">
+  <b>Junior Software Engineer @ MDA Space</b> <br>
+  <i>Computer Engineer | Python Enthusiast | Builder of Real-Time Tech</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/tamerrafidi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-TamerRafidi-blue?style=flat&logo=linkedin"/>
+  </a>
+  <a href="https://www.tamerrafidi.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-tamerrafidi.com-green?style=flat&logo=google-chrome"/>
+  </a>
+  <img src="https://img.shields.io/badge/Favourite%20Language-Python-informational?logo=python&logoColor=white&color=3776AB"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🛰️ Junior Software Engineer at <b>MDA Space</b>, building the future of space tech!
+- 🎓 Graduated from McMaster University in Computer Engineering
+- 🐍 Python is my happy place
+- ⚽ Gym, soccer, and coding keep me moving—sometimes all at once
+- 🤝 Fun fact: I have a twin brother with an identical career path (double the code, double the fun!)
+
+---
+
+## 🌟 Notable Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**AirDJ**](https://github.com/Tamer-Rafidi/AirDJ) | Real-time hand-tracking audio controller—DJ your music with just gestures! | Python |
+| [**Image-Decompressor**](https://github.com/Tamer-Rafidi/Image-Decompressor) | Hardware-based image decompressor in Verilog, reconstructs 320x240 pixel images (.mic18 spec) | SystemVerilog, Tcl, C, Verilog, Stata |
+| [**Groovy.Io**](https://github.com/Tamer-Rafidi/Groovy.Io) | Multilingual (JS & Python) project—details coming soon! | JavaScript, Python, CSS, HTML |
+| [**Pacemaker**](https://github.com/Tamer-Rafidi/Pacemaker) | Real-time pacemaker software using Simulink and Python | Python |
+
+---
+
+## 🛠️ Skills & Tools
+
+<img src="https://skillicons.dev/icons?i=python,verilog,systemverilog,js,html,css,matlab,git,linux,c" />
+
+---
+
+## 🤸 Outside of Code
+
+- 💪 Gym enthusiast
+- ⚽ Soccer player & fan
+- 💻 Always tinkering with new projects
+
+---
+
+## 🌐 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/tamerrafidi/)
+- [Personal Website](https://www.tamerrafidi.com) (coming soon!)
+
+---
+
+<details>
+  <summary>More Fun Facts</summary>
+  
+  - 👨‍💻 I love blending hardware and software for real-world solutions
+  - 👯 My twin and I once wrote nearly identical resumes by accident!
+  - 🚀 Always up for new challenges and collaborations
+</details>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Keep+coding+and+reach+for+the+stars!+🚀" alt="Typing SVG" />
+</p>
