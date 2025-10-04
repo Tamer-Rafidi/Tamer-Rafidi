@@ -6,16 +6,6 @@
   <i>Computer Engineer | Python Enthusiast | Builder of Real-Time Tech</i>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tamerrafidi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-TamerRafidi-blue?style=flat&logo=linkedin"/>
-  </a>
-  <a href="https://www.tamerrafidi.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-tamerrafidi.com-green?style=flat&logo=google-chrome"/>
-  </a>
-  <img src="https://img.shields.io/badge/Favourite%20Language-Python-informational?logo=python&logoColor=white&color=3776AB"/>
-</p>
-
 ---
 
 ## 🚀 About Me
