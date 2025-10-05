@@ -76,7 +76,7 @@ class TamerRafidi:
 ⚽ BARCA LOYALTY.exe
    Been a die-hard FC Barcelona fan since age 6.
    Witnessed the legendary 6-1 comeback vs PSG live - best day ever!
-   Coding breaks = watching Barca highlights
+   Coding breaks = watching Barca games
 
 💪 FITNESS_PROTOCOL
    Gym sessions = my debugging breaks
