@@ -70,7 +70,7 @@ class TamerRafidi:
 
 👯 TWIN PROTOCOL
    My twin brother and I have nearly identical career paths.
-   We once wrote eerily similar resumes by complete accident!
+   We once wrote similar resumes by complete accident!
    Double the debugging power!
 
 ⚽ BARCA LOYALTY.exe
@@ -82,21 +82,11 @@ class TamerRafidi:
    Gym sessions = my debugging breaks
    Code → Lift → Repeat
 
-🎵 MUSIC_PASSION
-   Built multiple music-related projects (AirDJ, Groovy.io)
-   Why choose between passions when you can merge them?
-
 🤖 HARDWARE ❤️ SOFTWARE
    Love blending low-level hardware with high-level software
-   From FPGA to Flask - I do it all
 
 🚀 SPACE_TECH.mission
    Working at MDA Space = Building tech that literally goes to space
-   My code might orbit Earth one day!
-
-📚 PERPETUAL_LEARNER
-   If there's a new tech stack, I'm already tinkering
-   Always hungry for the next challenge
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 - [SUCCESS] Fun facts loaded! ✓
